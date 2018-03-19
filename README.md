@@ -1,7 +1,7 @@
 # sass-boilerplate
 Boilerplate for Sass projects using the 7-1 architecture pattern with node-sass.
 
-See [Sass Guidelines](https://sass-guidelin.es/) for details about the folders architecture.
+See [Sass Guidelines](https://sass-guidelin.es/#architecture) for details about the folders architecture.
 
 This repo requires Node and npm. https://www.npmjs.com/get-npm
 
